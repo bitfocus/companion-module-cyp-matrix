@@ -1,0 +1,24 @@
+{
+	"name": "cyp-v8h8hpa",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [ "HDMI Matrix" ],
+	"manufacturer": "CYP",
+	"product": "V8H8HPA",
+	"shortname": "V8H8HPA",
+	"description": "Matrix switch 8x8",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-cyp-matrix.git"
+	},
+	"author": "James Rankin <james@rankinfamily.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-cyp-matrix/issues"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-cyp-matrix#readme"
+}
