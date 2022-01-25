@@ -1,4 +1,4 @@
 # companion-module-cyp-v8h8pa
+This module is for the CYP V8H8HPA 8x8 HDMI matrix
 
-Should work for OR-88U-4K22
 See HELP.md and LICENSE
