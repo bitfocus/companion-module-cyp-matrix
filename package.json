@@ -1,8 +1,10 @@
 {
-	"name": "cyp-v8h8hpa",
+	"name": "cyp-matrix",
 	"version": "1.0.0",
 	"api_version": "1.0.0",
-	"keywords": [ "HDMI Matrix" ],
+	"keywords": [
+		"HDMI Matrix"
+	],
 	"manufacturer": "CYP",
 	"product": "V8H8HPA",
 	"shortname": "V8H8HPA",
